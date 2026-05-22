@@ -1,4 +1,4 @@
 # Demo1
 This is my practice repository
 <br>
-Author - Bharati
+Author - Bharati Jadhav
